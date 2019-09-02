@@ -1,9 +1,4 @@
-/*
- * ADC.c
- *
- *  Created on: Apr 19, 2019
- *      Author: yashm
- */
+
 #include "ADC.h"
 
 void SetUpADC(void)
